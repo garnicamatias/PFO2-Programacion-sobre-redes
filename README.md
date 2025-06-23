@@ -85,5 +85,5 @@ Se encuentran en la carpeta `/capturas`.
 ### ¿Por qué hashear contraseñas?
 Hashear contraseñas permite almacenar de forma segura la información sensible. Si la base de datos es comprometida, los atacantes no podrán ver las contraseñas reales, ya que los hashes no se pueden revertir fácilmente.
 
-### Ventajas de usar SQLite
-SQLite es una base de datos liviana y embebida, perfecta para proyectos pequeños o prototipos. No requiere un servidor separado y permite trabajar con archivos locales, lo que simplifica la configuración y el despliegue.
+### Ventajas de usar SQLite en este proyecto
+SQLite es una base de datos liviana y embebida, perfecta para proyectos pequeños o prototipos como este. No requiere un servidor separado y permite trabajar con archivos locales, lo que simplifica la configuración y el despliegue.
